@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sortingAlgoViz/static/css/main.f0647264.css",
+    "main.js": "/sortingAlgoViz/static/js/main.bfe171b3.js",
+    "index.html": "/sortingAlgoViz/index.html",
+    "main.f0647264.css.map": "/sortingAlgoViz/static/css/main.f0647264.css.map",
+    "main.bfe171b3.js.map": "/sortingAlgoViz/static/js/main.bfe171b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0647264.css",
+    "static/js/main.bfe171b3.js"
+  ]
+}
